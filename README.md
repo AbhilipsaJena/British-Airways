@@ -5,7 +5,7 @@ Web scraping to gain company insights
 1-Web scraping to gain company insights\
 2-Predicting customer buying behaviour
 
-Task 1-
+Task 1-\
 This first task is focused on scraping and collecting customer feedback and reviewing data from a third-party source and analysing this data to present any insights you may uncover.
 
 Customer review data for Britis Airways was collected from Skytrax.
