@@ -2,7 +2,7 @@
 Web scraping to gain company insights
 
 # The virtual Internship is divided into two main tasks
-1-Web scraping to gain company insights
+1-Web scraping to gain company insights\
 2-Predicting customer buying behaviour
 
 Task 1-
